@@ -1,2 +1,2 @@
 # Decentralized-storage-drive
-React APP to store ypur files in IPFS
+React APP to store your files in IPFS
